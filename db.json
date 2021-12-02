@@ -117,6 +117,17 @@
         "category": "office"
     }
 ],
+"announcement": [
+  {
+    "id": 1,
+    "title": "Super Deal!  Free Shipping on Orders with Minimum Spend of  199"
+  },
+  {
+    "id": 2,
+    "title": "Christmas Sale! 199 OFF!"
+  }
+]
+,
 "cart": [
     {
         "id": 1
